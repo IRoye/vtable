@@ -1,9 +1,3 @@
-<!--
- * @Description: 
- * @Author: yuyi
- * @Date: 2024-08-01 23:19:43
- * @LastEditors: yuyi
- * @LastEditTime: 2024-08-01 23:20:17
--->
-# vtable
-element plus表格封装
+# Vtable element plus表格封装
+
+通过修改slots，实现表格列动态显隐、动态更改显示顺序
